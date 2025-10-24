@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KochFractal", "KochFractal\KochFractal.csproj", "{F58A63A4-BD4B-414A-A112-D5319308112A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F58A63A4-BD4B-414A-A112-D5319308112A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58A63A4-BD4B-414A-A112-D5319308112A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58A63A4-BD4B-414A-A112-D5319308112A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58A63A4-BD4B-414A-A112-D5319308112A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE050B4-F267-42ED-9FF4-0BA8592998D7}
+	EndGlobalSection
+EndGlobal
